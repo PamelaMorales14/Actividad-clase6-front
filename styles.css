@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+}
+
+header {background-image: url(/Actividad/img/puntos.jpeg);
+    background-size:contain;}
+
+#sobre {font-size: 35px;}
+
+
+h1{
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    color: purple;
+    background-color: pink;
+}
+.espacio{
+    height: 500px;
+}
+.subtitulo{
+    letter-spacing: 5px;
+    padding-left: 10px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: palevioletred;
+    background-color: plum;
+}
+.subtitulo h2{
+    margin-left: 10px;
+}
+.formulario_campo{
+    font-weight: bold;
+    font-style: italic;
+}
+.lista_campo{
+    font-weight: bold;
+}
+
+footer{
+    margin-top: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: pink;
+    text-align: center;
+    background-color: purple;
+}
+.texto{
+    font-size: 5px;
+}
+
+img.redimension {
+    max-width:10%;
+    max-height:10%;
+    display:block;
+margin:auto;
+  }
+
+img.redes {max-width:3%;
+    max-height:3%;
+    display:block;
+margin:auto}
+
+/* css sobre mi*/
+#fondo {color:pink;}
+
